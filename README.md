@@ -1,4 +1,4 @@
-## Oi eu sou o Alessandro , desenvolvedor front-end, mobile e back-end
+## Oi eu sou o Alessandro , Analista/Cientista de dados , esepcialista em Inteligencia Artificial e Machine Learning
 ### 👨‍🎓 Cursando Inteligencia Artificial e Machine Learning
 <div style="display: flex" >
 <img  src="https://github-readme-stats.vercel.app/api?username=alessandrocrispim&show_icons=true&theme=transparent"/>
