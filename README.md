@@ -1,5 +1,5 @@
 ## Oi eu sou o Alessandro , desenvolvedor front-end, mobile e back-end
-### 👨‍🎓 Cursando marketing digital 
+### 👨‍🎓 Cursando Inteligencia Artificial e Machine Learning
 <div style="display: flex" >
 <img  src="https://github-readme-stats.vercel.app/api?username=alessandrocrispim&show_icons=true&theme=transparent"/>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrocrispim&show_icons=true&theme=dracula&hide=contribs,prs"/>
@@ -7,10 +7,10 @@
 
 ##
 
-- 👨‍💻  Front-End com React/Next
-- 📴  Mobile com React Native
-- 💻  Back-end com node.js
-- 👨‍🏫  Cursando Marketing Digital na universidade Anhanguera
+- 👨‍💻  Analise de Dados
+- 📴  Ciencia de Dados
+- 💻  Inteligencia Artificial e Machine Learning
+- 👨‍🏫  Inteligencia Artificial e Machine Learning na Universidade Unicesumar
 
 
 
